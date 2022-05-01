@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Electronica\Proyecto\MPU6050Module\SCH_PCB\MPU6050_PCB.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Power|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,16 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAP_CER_1UF_10V_X7R_1206         2.9mm        13.5mm         2.9mm        13.5mm         2.9mm      12.025mm  T         90.00 C 1uF 16V      
+C2         CAP_CER_1UF_10V_X7R_1206         6.1mm        18.7mm         6.1mm        18.7mm       4.625mm        18.7mm  T        360.00 C 1uF 16V      
+C3         CAP_CER_0.1UF_10V_X7R_1206        21.8mm        18.5mm        21.8mm        18.5mm      20.325mm        18.5mm  T        360.00 C 0.1uF 10V    
+C4         CAP_CER_2200PF_50V_NP0_1206        15.8mm        18.5mm        15.8mm        18.5mm      14.325mm        18.5mm  T        360.00 C 2200pf 50V   
+C5         CAP_CER_1206_10NF_10V_ULTRA_STAB        28.3mm        13.5mm        28.3mm        13.5mm        28.3mm      12.025mm  T         90.00 C 10nF 10V     
+C6         CAP_CER_0.1UF_10V_X7R_1206        25.2mm        13.5mm        25.2mm        13.5mm        25.2mm      12.025mm  T         90.00 C 0.1uF 10V    
+J1         CONN_HEADER_VERT_8POS_3.96MM        15.5mm         3.5mm        15.5mm         3.5mm        6.61mm         3.5mm  T        360.00 8 PIN HEADER   
+LED1       RED_LED_1206           21.8mm        21.9mm        21.8mm        21.9mm       20.32mm        21.9mm  T        360.00 RED LED 1206   
+R1         RES_SMD_1K_OHM_5%_1/4W_1206        15.8mm        21.9mm        15.8mm        21.9mm       14.32mm        21.9mm  T          0.00 1K 5% 1/4W 1206
+R2         RES_SMD_4.7K_OHM_5%_1/4W_1206         9.9mm        13.4mm         9.9mm        13.4mm         9.9mm       14.88mm  T        270.00 4.7K 5% 1/4W 1206
+R3         RES_SMD_4.7K_OHM_5%_1/4W_1206          13mm        13.4mm          13mm        13.4mm          13mm       14.88mm  T        270.00 4.7K 5% 1/4W 1206
+U1         AP7343-33W5-7           6.4mm        13.3mm         6.4mm        13.3mm        5.45mm      12.115mm  T         90.00 AP7343-33W5-7  
+U2         MPU6050                18.5mm        12.7mm        18.5mm        12.7mm       17.25mm        10.7mm  T         90.00 MPU-6050       
+

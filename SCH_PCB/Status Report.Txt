@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:58:48 a.m. On 14/04/2022
+
+Output: MPU6050_BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MPU6050_V1I1.PrjPcb]
+   Generated File[MPU6050_BOM-MPU6050_V1I1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:58:55 a.m. On 14/04/2022
