@@ -1,8 +1,7 @@
 # MPU6050_Module
 MPU 6050 6-axis module PCB
 
-This repository contains MPU6050 module PCB Altium project. This PCB has not been tested or manufactured. This project was develeped just for learning purposes.
-
+This repository contains MPU6050 module PCB Altium project.
 
 * Author: Damián Caputo
 * Title : MPU 6050 Module
